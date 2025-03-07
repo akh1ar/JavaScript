@@ -1,6 +1,6 @@
 # 📚 Practice Questions and Solutions  
 
-This repository contains a collection of practice questions along with their solutions. It is designed to help improve problem-solving skills and enhance understanding of various topics.  
+This repository includes a collection of practice questions with their solutions. It is a great resource for enhancing problem-solving skills and gaining a deeper understanding of various concepts across multiple topics.
 
 ## 📌 What's Inside?  
 - A diverse set of practice problems  
