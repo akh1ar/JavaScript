@@ -1,0 +1,44 @@
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: #f1f1f1;
+}
+.container{
+    padding: 10vw 25vw;
+}
+input{
+    width: 100%;
+    padding: 12px 22px;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 100px;
+    border: 1px solid #dadada;
+    outline-color: royalblue;
+}
+#people{
+    display: flex;
+    gap: 1.4rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+#person{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 7vw;
+    height: 7vw;
+    border-radius: 50%;
+    border: 2px solid #dadada;
+    /* background-color: crimson; */
+    overflow: hidden;
+
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
